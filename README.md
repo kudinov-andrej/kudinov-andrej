@@ -12,40 +12,62 @@
 </a>
 </div>
 <h1>
-  Привет всем!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
- 
- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<div align="left">
-:man_technologist: Обо мне :
- Я начинающий веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> на JS, React.
- 
- - :telescope: Я обучаюсь в онлайн университете Я.Практикум. За время обучения реализовал ряд проектов. Все учебные проекты проходили код-ревью.
 
-- :seedling: Учусь, выполняю pet-проекты, ищу работу мечты
+### 👋 Привет, я Андрей
 
-- :zap: В свободное время изучаю JS и React, решаю задачи на Codewars.
+Я бывший руководитель в ритейле (управлял магазинами, ресторанами, складами), а сейчас — в процессе классного перехода в IT. Мой путь был нелинейным, и это мое преимущество.
 
-- :mailbox:Как со мной связаться: <a href="https://t.me/+79284702312"> <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" width="100" height="25"/>
-</a>
- </div>
- 
- ---
+---
 
-### :hammer_and_wrench: Языки и навыки :
- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-</div>
- 
+### 🧰 Мой стек (база, которую освежаю)
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React (базовый уровень, учебные проекты)
+- **Версия и инструменты:** Git, GitHub, Figma, Postman
+- **Аналитика и автоматизация:** Excel (продвинутый, макросы VBA), Power BI, 1С, работа с данными
+- **Сейчас изучаю:** теорию тестирования, пишу тест-кейсы, разбираюсь в баг-трекинге
+
+---
+
+### 🚀 Проекты, которыми горжусь
+
+Здесь в основном учебные работы, но они дали мне базу.
+
+| Проект | Описание | Стек | Ссылка |
+|--------|----------|------|--------|
+| **Mesto** | Интерактивная страница с профилем, загрузкой фото, лайками. Учебный проект на курсе Яндекс.Практикум. | React, JS, API | [посмотреть демо]() |
+| **Путешествие по России** | Адаптивный лендинг о путешествиях. Учился делать резиновую вёрстку. | HTML, CSS | [посмотреть демо]() |
+| **Магазин сладостей** | Пет-проект для тренировки вёрстки и базового JS. | HTML, CSS, JS | [посмотреть демо]() |
+
+*[Добавьте сюда же свои проекты: `art`, `magic`, `portfolio`]*
+
+---
+
+### 💼 Что ещё я умею и чем горжусь (это не из учебников)
+
+- **Разработал и внедрил макрос на VBA**, который автоматизировал анализ инвентаризаций во «ВкусВилле» и сэкономил компании **900 часов работы в год**.
+- **Управлял командами до 50 человек** в «Перекрёстке», KFC, «Тандере». Отвечал за P&L, потери, сервис.
+- **Торгую антикварными ложками** (да, серьёзно). За 3 года продал более 400 лотов, рейтинг 5.0. Это про клиентоориентированность, учёт и терпение.
+
+---
+
+### 🔍 Что я ищу сейчас
+
+Я в активном поиске позиции **junior QA / стажёра в тестирование** или **младшего фронтенд-разработчика**. Рассматриваю также роли, где нужен **аналитический склад ума + техническая база**.
+
+Готов учиться, работать в команде и выполнять реальные задачи. Удалёнка или гибридный формат.
+
+---
+
+### 📫 Как со мной связаться
+
+- **Telegram:** @AndreiKudinov
+- **Почта:** kudinov.andrej@list.ru
+- **Резюме на hh.ru:** [(https://hh.ru/resume/7cf8841bff0cdc875b0039ed1f683057453632)]
+- **Моё портфолио:** [https://kudinov-andrej.github.io/portfolio](https://kudinov-andrej.github.io/portfolio)
+
+---
+
+*🌱 Поддерживаю профиль в порядке, даже когда нет активных коммитов. Потому что разработка — это про системность и внимание к деталям. Как и мои ложки.*
  ---
 
 ### :fire: Моя статистика:
